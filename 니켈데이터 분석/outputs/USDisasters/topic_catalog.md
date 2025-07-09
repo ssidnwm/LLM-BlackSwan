@@ -1,0 +1,26 @@
+| topic | count | mean | std | keywords | summary |
+|------:|------:|-----:|-----:|-----------|---------|
+| -1 | 1036 | 0.22 | 1.48 |  | Noise / 기타 |
+| 0 | 2835 | 0.29 | 1.66 | the, nickel, to, on, and, impact, is, in, or, score | the nickel to on and |
+| 1 | 431 | 0.04 | 0.51 | wildfires, nickel, the, on, or, and, is, impact, wildfire, global | wildfires nickel the on or |
+| 2 | 64 | 0.91 | 2.84 | bridge, collapse, baltimore, the, of, and, transportation, key, to, port | bridge collapse baltimore the of |
+| 3 | 56 | 0.09 | 1.16 | cybersecurity, the, nickel, or, on, cyber, cyberattack, impact, supply, cyberattacks | cybersecurity the nickel or on |
+| 4 | 30 | 0.00 | 0.00 | maria, puerto, rico, hurricane, nickel, on, or, recovery, the, global | maria puerto rico hurricane nickel |
+| 5 | 23 | 0.00 | 0.00 | puerto, rico, recovery, nickel, is, global, or, in, not, for | puerto rico recovery nickel is |
+| 6 | 15 | -0.13 | 3.91 | coronavirus, pandemic, the, reduced, outbreak, other, in, was, to, as | coronavirus pandemic the reduced outbreak |
+| 7 | 15 | 0.00 | 0.00 | pharmaceutical, tornado, pfizer, sector, indirect, the, on, nickel, facility, there | pharmaceutical tornado pfizer sector indirect |
+| 8 | 13 | -0.38 | 1.39 | snap, cold, energy, texas, production, the, nickel, in, to, supply | snap cold energy texas production |
+| 9 | 12 | 0.00 | 0.00 | ransomware, attack, services, supply, primarily, the, nickel, on, or, sectors | ransomware attack services supply primarily |
+| 10 | 12 | 1.25 | 2.26 | bomb, cyclone, and, the, nickel, transportation, supply, on, in, demand | bomb cyclone and the nickel |
+| 11 | 11 | 2.91 | 2.84 | canal, suez, shipping, panama, trade, the, affecting, delays, as, to | canal suez shipping panama trade |
+| 12 | 11 | 4.91 | 4.21 | ukraine, russia, geopolitical, sanctions, has, this, to, the, increased, of | ukraine russia geopolitical sanctions has |
+| 13 | 11 | 0.45 | 1.51 | baxter, international, healthcare, the, sector, nickel, medical, iv, plant, supply | baxter international healthcare the sector |
+| 14 | 10 | 0.00 | 0.00 | alaska, earthquake, nickel, global, localized, and, did, is, the, supply | alaska earthquake nickel global localized |
+| 15 | 10 | 0.00 | 0.00 | pipeline, fuel, colonial, gas, directly, primarily, affected, the, is, nickel | pipeline fuel colonial gas directly |
+| 16 | 9 | 0.00 | 0.00 | formula, baby, abbott, plant, flooding, or, the, chain, does, nickel | formula baby abbott plant flooding |
+| 17 | 9 | 0.00 | 0.00 | hawaii, is, lane, nickel, unlikely, global, major, loa, mauna, not | hawaii is lane nickel unlikely |
+| 18 | 9 | 0.56 | 1.67 | river, mississippi, the, movement, traffic, reopening, crucial, disruptions, transportation, significant | river mississippi the movement traffic |
+| 19 | 9 | 0.00 | 0.00 | 19, covid, meat, food, closure, seafood, chain, affects, the, due | 19 covid meat food closure |
+| 20 | 7 | 0.00 | 0.00 | yonder, blue, ransomware, attack, starbucks, disrupts, management, is, on, the | yonder blue ransomware attack starbucks |
+| 21 | 6 | 0.00 | 0.00 | cherry, michigan, correlation, agricultural, growers, sweet, sector, have, with, alter | cherry michigan correlation agricultural growers |
+| 22 | 5 | 0.00 | 0.00 | louisiana, it, alter, nickel, environmental, local, quality, in, is, does | louisiana it alter nickel environmental |

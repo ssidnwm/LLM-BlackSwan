@@ -1,0 +1,46 @@
+| topic | count | mean | std | keywords | summary |
+|------:|------:|-----:|-----:|-----------|---------|
+| -1 | 982 | 1.03 | 2.61 |  | Noise / 기타 |
+| 0 | 2033 | 0.73 | 2.60 | the, nickel, on, to, in, impact, demand, and, is, for | the nickel on to in |
+| 1 | 51 | 0.00 | 0.00 | privacy, data, market, primarily, or, nickel, have, dynamics, to, unlikely | privacy data market primarily or |
+| 2 | 32 | -0.38 | 1.26 | covid, 19, pandemic, to, the, nickel, or, on, impact, minimal | covid 19 pandemic to the |
+| 3 | 28 | 0.00 | 0.00 | healthcare, health, unlikely, any, it, relate, regarding, does, market, or | healthcare health unlikely any it |
+| 4 | 27 | 1.11 | 1.83 | aukus, defense, agreement, on, and, the, nickel, focuses, demand, may | aukus defense agreement on and |
+| 5 | 26 | 2.50 | 3.49 | evs, electric, vehicles, ev, batteries, component, for, increase, in, used | evs electric vehicles ev batteries |
+| 6 | 24 | 0.29 | 1.08 | housing, construction, policies, directly, materials, have, nickel, to, on, or | housing construction policies directly materials |
+| 7 | 22 | 0.00 | 0.00 | education, international, student, it, or, have, nickel, cap, the, educational | education international student it or |
+| 8 | 21 | 0.00 | 0.00 | media, news, facebook, social, market, unlikely, primarily, such, dynamics, have | media news facebook social market |
+| 9 | 19 | 0.00 | 0.00 | no, asylum, regarding, refugee, market, has, category, it, relative, side | no asylum regarding refugee market |
+| 10 | 19 | 0.11 | 0.46 | housing, rental, tenant, south, construction, primarily, do, unlikely, or, protections | housing rental tenant south construction |
+| 11 | 18 | 0.00 | 0.00 | recycling, waste, recycled, management, on, or, nickel, the, minimal, likely | recycling waste recycled management on |
+| 12 | 18 | -0.39 | 1.24 | water, management, darling, operations, murray, nickel, environmental, agricultural, or, other | water management darling operations murray |
+| 13 | 18 | 0.00 | 0.00 | drug, unlikely, have, any, cannabis, relevance, market, or, has, to | drug unlikely have any cannabis |
+| 14 | 16 | 0.00 | 0.00 | privacy, data, protection, unlikely, laws, have, such, reform, or, to | privacy data protection unlikely laws |
+| 15 | 16 | 0.00 | 0.00 | gambling, unlikely, or, they, influence, nickel, market, it, to, regarding | gambling unlikely or they influence |
+| 16 | 15 | 0.00 | 0.00 | discrimination, women, gender, social, religious, market, or, have, issue, it | discrimination women gender social religious |
+| 17 | 14 | 0.21 | 0.80 | merger, corporate, competition, control, mandatory, regime, producers, business, mergers, acquisitions | merger corporate competition control mandatory |
+| 18 | 13 | 0.00 | 0.00 | education, side, or, it, unlikely, nickel, has, no, market, school | education side or it unlikely |
+| 19 | 13 | 0.00 | 0.00 | tobacco, vaping, health, unlikely, public, have, regulation, to, or, nicotine | tobacco vaping health unlikely public |
+| 20 | 12 | 0.00 | 0.00 | gearing, housing, negative, tax, economic, primarily, policies, have, discussions, on | gearing housing negative tax economic |
+| 21 | 12 | 0.00 | 0.00 | aged, care, assisted, dying, voluntary, or, healthcare, it, social, unlikely | aged care assisted dying voluntary |
+| 22 | 10 | 0.00 | 0.00 | superannuation, financial, it, market, does, or, regarding, victims, influence, funds | superannuation financial it market does |
+| 23 | 10 | -0.20 | 1.93 | indonesia, agreement, competition, between, australia, trade, relations, aluminium, livestock, nickel | indonesia agreement competition between australia |
+| 24 | 10 | -1.00 | 2.11 | port, darwin, lease, foreign, investment, affecting, scrutiny, company, of, uncertainty | port darwin lease foreign investment |
+| 25 | 10 | 0.00 | 0.00 | sheep, live, agricultural, ban, sector, two, it, affects, unlikely, cattle | sheep live agricultural ban sector |
+| 26 | 10 | 0.00 | 0.00 | reef, great, barrier, environmental, danger, seaweed, it, to, the, protection | reef great barrier environmental danger |
+| 27 | 9 | 0.00 | 0.00 | social, sexual, legal, violence, victoria, assault, combating, it, or, market | social sexual legal violence victoria |
+| 28 | 9 | 0.00 | 0.00 | retirement, pension, age, social, village, unlikely, significantly, is, or, market | retirement pension age social village |
+| 29 | 9 | 0.00 | 0.00 | student, visa, education, visas, sectors, labor, economy, immigration, affect, the | student visa education visas sectors |
+| 30 | 9 | 0.00 | 0.00 | digital, identity, id, administrative, side, market, unlikely, system, it, any | digital identity id administrative side |
+| 31 | 8 | -0.62 | 1.77 | protests, public, stringent, pressure, could, but, lead, climate, growing, regulations | protests public stringent pressure could |
+| 32 | 8 | 0.00 | 0.00 | child, welfare, side, or, it, family, unlikely, relate, market, social | child welfare side or it |
+| 33 | 8 | 0.00 | 0.00 | apra, financial, banking, stability, guidance, epbc, banks, risks, the, capital | apra financial banking stability guidance |
+| 34 | 8 | 0.00 | 0.00 | queensland, legal, social, adult, hate, crime, it, youth, regarding, market | queensland legal social adult hate |
+| 35 | 7 | 0.00 | 0.00 | right, disconnect, labor, employees, workplace, productivity, rights, hours, affects, employee | right disconnect labor employees workplace |
+| 36 | 7 | 0.00 | 0.00 | slavery, ethical, modern, combat, compliance, producers, to, focus, costs, this | slavery ethical modern combat compliance |
+| 37 | 7 | 0.00 | 0.00 | ai, artificial, it, regulation, intelligence, unlikely, does, or, significantly, nickel | ai artificial it regulation intelligence |
+| 38 | 7 | 0.00 | 0.00 | youth, social, justice, market, it, or, issue, does, side, unlikely | youth social justice market it |
+| 39 | 6 | 0.00 | 0.00 | protest, liberties, civil, anti, human, laws, public, activism, rights, south | protest liberties civil anti human |
+| 40 | 5 | 0.00 | 0.00 | meat, regarding, dingo, brumby, horses, focused, labeling, pet, indexation, preservation | meat regarding dingo brumby horses |
+| 41 | 5 | 0.00 | 0.00 | closing, gap, agricultural, issues, social, unlikely, it, architect, traceability, have | closing gap agricultural issues social |
+| 42 | 5 | 0.00 | 0.00 | gst, deal, tax, instability, political, events, impactful, reverse, or, is | gst deal tax instability political |
